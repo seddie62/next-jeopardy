@@ -1,0 +1,24 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    // ===
+    // Linter
+    // ===
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    // ===
+    // Spacing
+    // ===
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.trimAutoWhitespace": true,
+    "files.trimTrailingWhitespace": true,
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    // ===
+    // CSS
+    // ===
+    "css.validate": false,
+    "svg.preview.background": "transparent"
+}
